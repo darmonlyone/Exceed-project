@@ -1,0 +1,12 @@
+.graybg{
+    background-color: #E4E4E1;
+    background-image: linear-gradient(to top, #909090 0%, #dcdddf 52%, #ffffff 100%);
+    background-blend-mode: normal, multiply;
+    height: 1000px; 
+}
+.fontstatusbig{
+    font-size: 30px;
+}
+.fontstatussmall{
+    font-size: 25px;
+}
